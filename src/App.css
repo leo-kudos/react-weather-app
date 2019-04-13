@@ -85,6 +85,7 @@ body, html, #root, #root .leo-weather-app, #root .leo-weather-app .app-bg {
 #root .leo-weather-app .weather-info .weather-now-info-row > div:last-child {
   -webkit-align-items: flex-start;
   align-items: flex-start;
+  padding: 0;
 }
 
 #root .leo-weather-app .weather-info .weather-info-temp {
