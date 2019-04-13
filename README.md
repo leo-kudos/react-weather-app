@@ -10,7 +10,7 @@ My weather app built from scrach especially to Thinkific
 ## Plus
 - Photo by Roberto Shumski from Pexels (https://www.pexels.com/@roberto-shumski-972052)
 
-## Live server
+## Live server with last build
 - http://neris.me/thinkific-weather-app/
 
 ## App requirements
@@ -21,8 +21,10 @@ My weather app built from scrach especially to Thinkific
 ## Installation
 ```
 $ git clone
+$ cd react-weather-app
 $ npm install
-$ yarn start
+$ yarn start //dev stage
+$ yarn build //build the prod version
 ```
 
 Time spent to create the whole app from scratch: 8h
